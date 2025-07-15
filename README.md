@@ -1,4 +1,4 @@
-# Product-Analytics-Hub-Python-SQL-Workflow
+# PRODWISE: Data Driven Product Insights
 
 A complete data analysis project for exploring and summarizing product pricing, discounts, and ratings using Python (pandas) and SQL (MySQL). This project combines data from multiple CSV files, performs cleaning and transformation in Python, and enables advanced querying and insights via SQL.
 
